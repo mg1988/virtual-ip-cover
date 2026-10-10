@@ -31,6 +31,12 @@
 | 深色终端科技风 | 工具、代码、Agent | examples/style-terminal.jpg |
 | 浅色产品 UI 风 | 产品测评、工具横评 | examples/style-product-ui.jpg |
 | 硬核数据截图 | 有真实后台/结果截图时 | 须真图，禁止编数据 |
+| 暖色手绘教程风 | 小白教程、方法论、经验分享 | references/style-library.md 第10条 |
+| 产品主视觉风 | 工具介绍、产品拆解（须真实截图） | references/style-library.md 第11条 |
+| 黑金步骤爆款风 | 从0到1、步骤教程（证据须真实） | references/style-library.md 第12条 |
+| 高饱和实测冲击风 | 实测、验证、挑战 | references/style-library.md 第13条 |
+| 手写结果承诺风 | 入门、行动指南 | references/style-library.md 第14条 |
+| 产品后台沉浸风 | 工作流、数据系统 | references/style-library.md 第15条 |
 
 横幅示例（X 长文头图约 5:2）：
 
@@ -70,7 +76,7 @@
 
 ## 致谢
 
-方法论来自诺鸭船长 @noahduck283 的 X 长文《如何做出一个好封面：从入门到榨干》；本仓库只做方法摘要与落地执行，不含原文全文，角色与图片均为原创生成。
+方法论来自诺鸭船长 @noahduck283 的 X 长文《如何做出一个好封面：从入门到榨干》；扩展风格与「视觉重点」机制参考了夏林果 [xialingguo-ip](https://github.com/peggykangkang02/xialingguo-ip)（只学方法，未复制其样图）。本仓库只做方法摘要与落地执行，不含原文全文，角色与图片均为原创生成。
 
 ## License
 
